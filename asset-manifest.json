@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/first-react-app/static/css/main.54f2d08d.css",
-    "main.js": "/first-react-app/static/js/main.d613f108.js",
-    "static/js/453.f3ac8295.chunk.js": "/first-react-app/static/js/453.f3ac8295.chunk.js",
-    "index.html": "/first-react-app/index.html",
-    "main.54f2d08d.css.map": "/first-react-app/static/css/main.54f2d08d.css.map",
-    "main.d613f108.js.map": "/first-react-app/static/js/main.d613f108.js.map",
-    "453.f3ac8295.chunk.js.map": "/first-react-app/static/js/453.f3ac8295.chunk.js.map"
+    "main.css": "/ColorGame/static/css/main.54f2d08d.css",
+    "main.js": "/ColorGame/static/js/main.b98ea9ea.js",
+    "static/js/453.f3ac8295.chunk.js": "/ColorGame/static/js/453.f3ac8295.chunk.js",
+    "index.html": "/ColorGame/index.html",
+    "main.54f2d08d.css.map": "/ColorGame/static/css/main.54f2d08d.css.map",
+    "main.b98ea9ea.js.map": "/ColorGame/static/js/main.b98ea9ea.js.map",
+    "453.f3ac8295.chunk.js.map": "/ColorGame/static/js/453.f3ac8295.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54f2d08d.css",
-    "static/js/main.d613f108.js"
+    "static/js/main.b98ea9ea.js"
   ]
 }
