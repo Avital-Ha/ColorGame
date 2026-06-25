@@ -1,7 +1,7 @@
 {
   "name": "new-app-react",
   "version": "0.1.0",
-  "homepage": "https://avital-ha.github.io/first-react-app",
+  "homepage": "https://avital-ha.github.io/ColorGame",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
